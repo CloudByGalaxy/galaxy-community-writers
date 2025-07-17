@@ -21,14 +21,11 @@ Thank you for your interest in contributing to Galaxy Community Writers! This gu
 - **Clear audience**: Specify if content is for beginners, intermediate, or advanced users
 - **Practical value**: Focus on solving real problems developers face
 - **Technology focus**: Must relate to Galaxy-supported technologies (Meteor.js, Node.js, Django, AdonisJS, MongoDB)
-- **Galaxy integration**: Must include a meaningful reference to Galaxy Cloud with provided trackable link
+- **Galaxy reference**: Must include a meaningful reference to Galaxy with provided trackable link
 
 ### Technical Standards
 - **Code quality**: Follow best practices for the respective technology
-- **Up-to-date**: Use current versions of frameworks and packages
-- **Complete examples**: Include all necessary code, not just snippets
 - **Error handling**: Show proper error handling in examples
-- **Performance**: Consider performance implications in recommendations
 - **Galaxy deployment**: Include Galaxy deployment considerations when relevant
 
 ### Writing Standards
@@ -61,11 +58,10 @@ Thank you for your interest in contributing to Galaxy Community Writers! This gu
 3. **Iterations**: Make requested changes
 4. **Final Approval**: Article gets `approved-final` label
 
-### Step 4: Publication
-1. We publish your article on the official Galaxy blog
-2. You provide payment information
+### Step 4: Publication and payment
+1. You receive $60 USD payment via Github Sponsors
+2. We publish your article on the official Galaxy blog
 3. We promote the article on social media
-4. You receive $60 USD payment within 30 days
 
 ## 🏷️ Understanding Labels
 
@@ -103,13 +99,6 @@ Thank you for your interest in contributing to Galaxy Community Writers! This gu
 - Choose topics with broad community appeal
 - Consider current trends and pain points
 
-### Writing Tips
-- Start with a clear problem statement
-- Use real-world examples
-- Include step-by-step instructions
-- Test all your code before submitting
-- Consider different skill levels in your explanations
-
 ### Review Process
 - Respond promptly to feedback
 - Ask questions if feedback isn't clear
@@ -119,10 +108,10 @@ Thank you for your interest in contributing to Galaxy Community Writers! This gu
 ## ❓ FAQ
 
 ### Who can contribute?
-Anyone! Both Meteor Software employees and community members are welcome.
+Anyone! Both Galaxy employees and community members are welcome.
 
 ### How many articles can I write?
-There's a company-wide limit of 5 articles per month, but no individual limit.
+The more, the better.
 
 ### What if my proposal is rejected?
 We'll provide feedback on why and suggestions for improvement. You can revise and resubmit.
@@ -140,25 +129,16 @@ You'll need to set up a GitHub Sponsors account. Once your article is approved, 
 GitHub Sponsors handles all tax documentation and compliance based on your location and earnings.
 
 ### How do I include Galaxy in my article?
-A Galaxy team member will provide you with a trackable link and guidance on how to naturally integrate Galaxy Cloud into your article content.
+A Galaxy team member will provide you with a trackable link and guidance on how to naturally integrate Galaxy into your article content.
 
 ### Can I republish the article elsewhere?
 After publication on the Galaxy blog, you can republish with attribution.
-
-## 📞 Getting Help
-
-- **General questions**: Comment on relevant issues
-- **Technical problems**: Tag area leaders in your issue
-- **Payment questions**: Email [payment-email@meteor.com]
-- **Process questions**: Open a general issue
 
 ## 📋 Checklist for Contributors
 
 Before submitting your proposal:
 - [ ] I've read these contributing guidelines
 - [ ] I've checked existing articles for duplication
-- [ ] I have experience with the topic I'm proposing
-- [ ] I can commit to the timeline I'm proposing
 - [ ] I understand this is for original, unpublished content
 
 Before submitting for review:
@@ -167,7 +147,7 @@ Before submitting for review:
 - [ ] Article has clear introduction and conclusion
 - [ ] I've proofread for grammar and spelling
 - [ ] Google Doc is shared with comment permissions
-- [ ] Galaxy Cloud is meaningfully referenced with provided trackable link
+- [ ] Galaxy is meaningfully referenced with provided trackable link
 - [ ] GitHub Sponsors account is set up for payment
 
 ---
