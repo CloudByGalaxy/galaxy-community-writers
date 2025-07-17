@@ -74,13 +74,6 @@ _Our published authors will be featured here!_
 - **Quality**: Focus on practical value for the community
 - **Galaxy mention**: Must include Galaxy Cloud reference with provided trackable link
 
-## 🔄 Process
-Proposal → Approval → Writing → Review → Publication → Payment
-↓          ↓         ↓        ↓          ↓          ↓
-Issue     Label:     Google   Comments   Galaxy     $60
-Created   approved    Doc      & Updates  Blog       USD
-
-
 ## 📄 License
 
 This repository and its guidelines are available under the [MIT License](./LICENSE).
