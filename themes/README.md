@@ -42,7 +42,3 @@ Connecting applications with external services and APIs.
 
 ### 🎨 [Advanced Patterns](./advanced-patterns.md)
 Advanced techniques and architectural patterns.
-
----
-
-Ready to become a Galaxy Community Writer? [Start here!](../../issues/new?assignees=&labels=proposal%2Ccommunity&template=article-proposal.md&title=%5BPROPOSAL%5D+)
