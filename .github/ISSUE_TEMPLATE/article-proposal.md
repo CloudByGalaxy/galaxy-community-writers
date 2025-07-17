@@ -28,7 +28,6 @@ Describe in 2-3 paragraphs what the article will cover and why it's valuable for
 - [ ] I understand this is for original, unpublished content
 - [ ] I'm available for review iterations
 - [ ] I understand the $60 payment is processed via GitHub Sponsors upon final approval
-- [ ] I've read the [contributing guidelines](../../../CONTRIBUTING.md)
 
 ---
 **For Galaxy team use:**
