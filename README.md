@@ -9,15 +9,14 @@ Welcome to Galaxy Community Writers - a community-driven initiative to create hi
 1. **Browse available themes** in our [themes directory](./themes/)
 2. **Propose an article** by opening an [issue with our template](.github/ISSUE_TEMPLATE/article-proposal.md)
 3. **Get approved** by our technical reviewers
-4. **Write your article** (800-1,200 words)
+4. **Write your article** (4000 words minimum)
 5. **Get reviewed** by our editorial team
 6. **Get published** on the official Galaxy blog
-7. **Get paid** $60 USD! 💰
+7. **Get paid** $60 USD via Github Sponsors! 💰
 
 ## 🎯 Program Details
 
 - **Payment**: $60 USD per approved and published article
-- **Limit**: Maximum 5 articles approved per month (company-wide)
 - **Eligibility**: Open to everyone - Galaxy team members and community developers
 - **Requirements**: Original, unpublished content with functional code examples
 
@@ -49,12 +48,7 @@ We're looking for articles about technologies supported by Galaxy Cloud:
 
 [👉 See detailed theme descriptions](./themes/)
 
-## 🚀 Getting Started
-
-### For Community Members
-1. Check our [available themes](./themes/)
-2. Read our [contribution guidelines](./CONTRIBUTING.md)
-3. [Propose your article](../../issues/new?assignees=&labels=proposal%2Ccommunity&template=article-proposal.md&title=%5BPROPOSAL%5D+)
+[Propose your article](../../issues/new?assignees=&labels=proposal%2Ccommunity&template=article-proposal.md&title=%5BPROPOSAL%5D+)
 
 ### For Galaxy Team Members
 1. Same process as community members
@@ -86,11 +80,6 @@ Proposal → Approval → Writing → Review → Publication → Payment
 Issue     Label:     Google   Comments   Galaxy     $60
 Created   approved    Doc      & Updates  Blog       USD
 
-## 📞 Contact
-
-- **Issues**: Use GitHub issues for proposals and questions
-- **Email**: [your-email@meteor.com] for payment and administrative questions
-- **Community**: Join discussions in issue comments
 
 ## 📄 License
 
