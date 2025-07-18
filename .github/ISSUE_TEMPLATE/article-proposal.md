@@ -15,7 +15,7 @@ assignees: ''
 - **Title:** 
 - **Theme/Category:** (see [available themes](../../../themes/))
 - **Target Audience:** [ ] Beginner [ ] Intermediate [ ] Advanced
-- **Estimated Word Count:** 4000+ words
+- **Estimated Word Count:** 1500+ words
 
 ## 🎯 Article Summary
 Describe in 2-3 paragraphs what the article will cover and why it's valuable for the Galaxy community and developers using Galaxy-supported technologies.
