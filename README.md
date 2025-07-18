@@ -1,8 +1,8 @@
 # 🚀 Galaxy Community Writers
 
-> **Get paid $60 for writing quality articles about Galaxy Cloud technologies!**
+> **Get paid $60 for writing quality articles about [Galaxy]([url](https://galaxycloud.app/)) technologies!**
 
-Welcome to Galaxy Community Writers - a community-driven initiative to create high-quality technical content for Galaxy Cloud and its supported technologies.
+Welcome to Galaxy Community Writers - a community-driven initiative to create high-quality technical content for Galaxy and its supported technologies.
 
 ## 📝 How It Works
 
@@ -22,7 +22,7 @@ Welcome to Galaxy Community Writers - a community-driven initiative to create hi
 
 ## 📚 Supported Technologies
 
-We're looking for articles about technologies supported by Galaxy Cloud:
+We're looking for articles about technologies supported by Galaxy:
 
 - 🚀 **Meteor.js** - Full-stack JavaScript platform
 - 🟢 **Node.js** - JavaScript runtime and frameworks
@@ -72,7 +72,7 @@ _Our published authors will be featured here!_
 - **Audience**: Clear target audience (beginner/intermediate/advanced)
 - **Original**: Unpublished content only
 - **Quality**: Focus on practical value for the community
-- **Galaxy mention**: Must include Galaxy Cloud reference with provided trackable link
+- **Galaxy mention**: Must include Galaxy reference with provided trackable link
 
 ## 📄 License
 
