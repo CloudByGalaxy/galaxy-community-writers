@@ -9,7 +9,7 @@ Welcome to Galaxy Community Writers - a community-driven initiative to create hi
 1. **Browse available themes** in our [themes directory](./themes/)
 2. **Propose an article** by opening an [issue with our template](.github/ISSUE_TEMPLATE/article-proposal.md)
 3. **Get approved** by our technical reviewers
-4. **Write your article** (4000 words minimum)
+4. **Write your article** (1500 words minimum)
 5. **Get reviewed** by our editorial team
 6. **Get published** on the official Galaxy blog
 7. **Get paid** $60 USD via Github Sponsors! 💰
@@ -67,7 +67,7 @@ _Our published authors will be featured here!_
 
 ## 📝 Writing Guidelines
 
-- **Word Count**: Minimum 4,000 words (code doesn't count)
+- **Word Count**: Minimum 1500 words
 - **Code**: Must be functional and tested
 - **Audience**: Clear target audience (beginner/intermediate/advanced)
 - **Original**: Unpublished content only
