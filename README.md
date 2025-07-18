@@ -46,7 +46,7 @@ We're looking for articles about technologies supported by Galaxy:
 - 🔌 **Integration & APIs**
 - 🎨 **Advanced Patterns**
 
-Check the [available article topics]([url](https://github.com/CloudByGalaxy/galaxy-community-writers/issues/1)) and [Propose yours!](../../issues/new?assignees=&labels=proposal%2Ccommunity&template=article-proposal.md&title=%5BPROPOSAL%5D+)
+Check the [available article topics]([url](https://github.com/CloudByGalaxy/galaxy-community-writers/issues/1)) and [propose yours!](../../issues/new?assignees=&labels=proposal%2Ccommunity&template=article-proposal.md&title=%5BPROPOSAL%5D+)
 
 ## 📊 Program Stats
 
