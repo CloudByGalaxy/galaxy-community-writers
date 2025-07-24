@@ -48,6 +48,10 @@ We're looking for articles about technologies supported by Galaxy:
 
 Check the [available article topics]([url](https://github.com/CloudByGalaxy/galaxy-community-writers/issues/1)) and [propose yours!](../../issues/new?assignees=&labels=proposal%2Ccommunity&template=article-proposal.md&title=%5BPROPOSAL%5D+)
 
+## Got questions?
+
+[Ask them on the program's channel on Discord.]([url](https://github.com/CloudByGalaxy/galaxy-community-writers))
+
 ## 📊 Program Stats
 
 - **Articles Published**: 0
