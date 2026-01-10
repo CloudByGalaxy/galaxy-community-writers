@@ -46,6 +46,7 @@ Python web development with Django framework.
 - Integrating Django with MongoDB
 - Best practices for Django apps in production
 - Building admin dashboards with Django
+- **JWT Authentication in Django REST Framework** *(In Progress)*
 
 ### ⚡ AdonisJS Framework
 Modern Node.js web framework development.
@@ -83,6 +84,7 @@ Building secure applications across all supported technologies.
 - Building secure apps with Meteor
 - Authentication within HTTP endpoints
 - End-to-end encryption implementation
+- **JWT Authentication in Django REST Framework** *(In Progress)*
 
 ### 📁 File Management & Storage
 Handling file uploads, storage, and processing.
